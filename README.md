@@ -1,4 +1,4 @@
-#### DataStructure_Algorithm_Challenge 🚀
+### DataStructure_Algorithm_Challenge 🚀
 This repository is my personal learning journey for **Data Structures and Algorithms (DSA)**.  
 I will practice step by step in **Python**, committing all code examples and exercises here.  
 
