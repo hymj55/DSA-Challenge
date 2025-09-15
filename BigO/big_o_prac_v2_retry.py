@@ -1,5 +1,4 @@
 # Exercise 1 - Sum of First N Natural Numbers ###################################################
-from types import new_class
 
 print("Ex.1-1")
 def sum_up(n):
