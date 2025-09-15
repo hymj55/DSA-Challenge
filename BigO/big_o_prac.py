@@ -183,55 +183,6 @@ def find_pair(int_list, target_sum):
     print("Find_pair: Not found.")
 
 
-# def find_pair_set():
 
-    """
-    Time complexity: Big O of n
-    Space complexity: Big O of n
-    """
-
-int_list = [1, 3, 5, 7, 10]
-target_sum = 11
-find_pair(int_list, target_sum)
-
-# if target = a + b,   a = target - b
-
-
-
-
-
-# # set 예제
-# seen = {1, 3, 5}
-# num = 3
-#
-# if num in seen:
-#     print("Found!")    # 출력됨
-#
-# # 계산해서 확인 가능
-# target = 8
-# num = 3
-# if target - num in seen:  # 8-3=5 → 5가 set에 있음? True
-#     print("Pair found!")  # 출력됨
-#
-
-
-
-
-
-
-
-
-
-#nested loop practice
-# def do_something(n):
-#     i = 0
-#     while i < n:
-#         j = 0
-#         while j < n:
-#             print(i, j)
-#             j += 1
-#         i += 1
-#
-# do_something(5)
 
 
