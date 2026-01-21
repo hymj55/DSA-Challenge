@@ -1,30 +1,43 @@
 ### DataStructure_Algorithm_Challenge 🚀
-This repository is my personal learning journey for **Data Structures and Algorithms (DSA)**.  
-I will practice step by step in **Python**, committing all code examples and exercises here.  
+This repository documents my personal learning journey in **Data Structures and Algorithms (DSA)** as part of the Computer Programming and Analysis program at Conestoga College.
 
+All code is written in **Python** and reflects concepts practiced during class, assignments, and independent study.
+ 
 
 #### 📚 Goals
-- Strengthen my understanding of **basic data structures**  
-- Practice implementing **algorithms from scratch**  
-- Improve **problem-solving skills**  
-- **Commit my practice code regularly and improve step by step!**
+- Build a strong foundation in **core data structures**
+- Practice implementing **algorithms from scratch**
+- Improve **problem-solving and logical thinking**
+- Track my learning progress through **regular Git commits**
 
 
 #### 🛠 Languages & Tools
 - Python 
-- PyCharm CE
+- PyCharm Community Edition
 
 
 #### Topics Covered
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Trees
+- Big-O Notation   
+- Arrays  
+- Linked Lists  
+- Stacks & Queues  
+- Recursion 
+- Sorting & Searching Algorithms  
+- Trees 
+- Hash Tables  
 - Graphs
-- Sorting & Searching
+
+
+#### Projects (Academic)
+- City Emergency Routing (Python)
+- Bookstore System (Python)
+> Each project folder contains a mini README with project overview, features
 
 
 #### 🌟 Notes
-This repo is purely for **practice and learning**. Feel free to check my progress or suggest improvements!
+- This repository is **for learning and practice purposes**
+- Some code follows **class exercises**, while others are extended or modified independently
+- Code may evolve over time as I refactor and improve my understanding
+
+Feedback and suggestions are always welcome 🙂
 
