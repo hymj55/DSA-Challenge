@@ -1,4 +1,4 @@
-### DataStructure_Algorithm_Challenge 🚀
+### Data Structures & Algorithms Challenge 🚀
 This repository documents my personal learning journey in **Data Structures and Algorithms (DSA)** as part of the Computer Programming and Analysis program at Conestoga College.
 
 All code is written in **Python** and reflects concepts practiced during class, assignments, and independent study.
